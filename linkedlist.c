@@ -14,6 +14,7 @@ void free_list(list_t *head);
  * Return: If an error occurs - NULL.
  * 	    Otherwise - a pointer to the new node.
  */
+
 alias_t *add_alias_end(alias_t **head, char *name, char *value)
 {
 	alias_t *new_node = malloc(sizeof(alias_t));
