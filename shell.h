@@ -4,7 +4,7 @@
 /*
  * File: shell.h
  * Auth: Chukwuka Chisom
- *       Jamaal Okhuosami
+ * Auth: Jamaal Okhuosami
  */
 
 #include <fcntl.h>
